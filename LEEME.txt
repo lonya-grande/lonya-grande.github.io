@@ -1,0 +1,3 @@
+PUBLICACIÓN: crea un repositorio público lonya-grande en GitHub. Sube index.html, styles.css, script.js y la carpeta imagenes. En Settings > Pages selecciona Deploy from a branch, main, / (root), Save. Espera a que GitHub muestre la URL.
+FOTOS: agrega tus fotos originales JPG en imagenes con los nombres portada, piedra-del-zapato, carachupa, pinturas-rupestres, las-lejias, condorpuna, catedral-maranon, canon-rojo, rio-maranon, cuaco, fincas (todos con extensión .jpg). La portada usa una base verde hasta que exista la foto.
+Esta es una primera versión estática, no una exportación del sitio anterior. No incluye panel privado, formularios persistentes, galería 360 ni directorio verificado. Revisa los textos antes de publicar.
