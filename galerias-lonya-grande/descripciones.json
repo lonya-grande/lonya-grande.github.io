@@ -1,0 +1,52 @@
+[
+  {
+    "imagen": "piedra-del-zapato/atardecer-entre-montanas.webp",
+    "titulo": "Horizontes de fuego",
+    "descripcion": "El cielo se tiñe de rojo mientras las montañas dibujan el horizonte."
+  },
+  {
+    "imagen": "piedra-del-zapato/mirador-al-atardecer.webp",
+    "titulo": "Un mirador inolvidable",
+    "descripcion": "La última luz del día ilumina los caminos y las montañas del valle."
+  },
+  {
+    "imagen": "piedra-del-zapato/cielo-rojizo.webp",
+    "titulo": "La magia del ocaso",
+    "descripcion": "Nubes de tonos rojizos y violetas enmarcan un paisaje de serenidad."
+  },
+  {
+    "imagen": "las-lejias/poza-natural.webp",
+    "titulo": "Un refugio entre rocas",
+    "descripcion": "Una poza natural rodeada de piedra y vegetación invita a contemplar la tranquilidad del entorno."
+  },
+  {
+    "imagen": "piedra-del-zapato/vista-desde-la-cima.webp",
+    "titulo": "Una pausa frente al horizonte",
+    "descripcion": "Desde la parte superior de la Piedra del Zapato, el paisaje revela la inmensidad de las montañas."
+  },
+  {
+    "imagen": "catedral-del-maranon/aventura-en-el-agua.webp",
+    "titulo": "Aventura entre montañas",
+    "descripcion": "Una perspectiva aérea de las aguas y las embarcaciones revela otra forma de explorar el valle."
+  },
+  {
+    "imagen": "catedral-del-maranon/equipos-canotaje.webp",
+    "titulo": "Preparados para la aventura",
+    "descripcion": "Kayaks y equipos de protección forman parte de la experiencia de turismo de aventura."
+  },
+  {
+    "imagen": "catedral-del-maranon/kayak-azul.webp",
+    "titulo": "Explorar desde el agua",
+    "descripcion": "El kayak ofrece una perspectiva diferente del paisaje, con acompañamiento especializado y equipo adecuado."
+  },
+  {
+    "imagen": "rio-maranon/aguas-esmeralda.webp",
+    "titulo": "Aguas de color esmeralda",
+    "descripcion": "Entre playas de arena y vegetación ribereña, el agua dibuja un paisaje de singular belleza."
+  },
+  {
+    "imagen": "rio-maranon/playas-naturales.webp",
+    "titulo": "Playas entre montañas",
+    "descripcion": "Las orillas de arena y las paredes rocosas enmarcan un escenario natural para descubrir y conservar."
+  }
+]
